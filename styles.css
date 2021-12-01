@@ -1,0 +1,65 @@
+body {
+     background: lightgrey ;
+     color: darkcyan  ;
+     font-family: Georgia ;
+     font-size: 17px ;
+     font-weight: bolder ;
+}
+
+h1, h2 {
+
+  font-family: cursive ;
+}
+
+
+h1 {
+	  color: darkblue ;
+    font-size: 50px  ;
+    font-weight: 80px ;
+    
+}
+
+
+h2 {
+    color: indianred  ;
+    font-weight: 164px ;
+    font-size: 35px ;
+
+
+}
+a:hover{
+  color: darkblue; 
+}
+
+.containers {
+   width: 700px ;
+   margin: 45px auto ;
+}
+.card-white {
+   background-color: beige;
+   padding: 16px 22px;
+   box-shadow: 1px 12px 30px ;
+   margin: 20px 0px ;
+   border-radius: 3px ;
+   text-align: center;
+}
+.img-circle {
+  border-radius: 50% ;
+}
+.btn-blue {
+  background-color: darkslateblue;
+  color: white;
+  padding: 15px 20px ;
+  border-radius: 3px ;
+}
+.btn-blue:hover {
+  background-color: black;
+  color: white;
+}
+.list-inline li {
+  display: inline;
+  padding: 15px ;
+}
+.list-inline i {
+  font-size: 50px ;
+
